@@ -55,6 +55,7 @@ C=a-b
 C=a-b
 ```
 ## OUTPUT:
+![](6.1.png)
 ![](6.png)
 ## RESULT:
 The back end of the compiler is implemented successfully, and the output is verified.
